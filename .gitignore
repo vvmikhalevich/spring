@@ -9,3 +9,15 @@
 /.idea/libraries/Maven__org_springframework_spring_tx_5_0_0_RELEASE.xml
 /spring_core.iml
 /.idea/vcs.xml
+/.idea/.name
+/target/classes/com/epam/spring/core/App.class
+/target/classes/com/epam/spring/core/Client.class
+/com.epam.spring.core.iml
+/target/classes/META-INF/com.epam.spring.core.kotlin_module
+/.idea/compiler.xml
+/target/classes/com/epam/spring/core/ConsoleEventLogger.class
+/target/classes/com/epam/spring/core/EventLogger.class
+/.idea/misc.xml
+/.idea/modules.xml
+/target/classes/spring.xml
+/.idea/uiDesigner.xml
